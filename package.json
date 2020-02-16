@@ -2,7 +2,7 @@
   "name": "calcoolator",
   "version": "1.0.0",
   "description": "Calculator",
-  "homepage": "http://farhajhussain44.github.io/calcoolator",
+  "homepage": "https://farhajhussain44.github.io/calcoolator",
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
